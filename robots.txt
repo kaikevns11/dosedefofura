@@ -1,4 +1,6 @@
 User-agent: *
 Disallow:
-Disallow: /imagens
-Disallow: /upload
+
+#Sitemap
+
+Sitemap: https://dosedefofura.netlify.app/sitemap.xml
